@@ -1,5 +1,5 @@
 # 💫 About Me:
-im currently studing
+I am Fatima Ezzahraa Koukou, a student in Intelligent Processing Systems at the Faculty of Sciences in Rabat and 1337 UM6P. I am passionate about mobile development, data analysis, and AI
 
 
 ## 🌐 Socials:
